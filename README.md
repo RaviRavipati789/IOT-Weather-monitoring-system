@@ -1,2 +1,2 @@
 # IOT-Weather-monitoring-system
-I have created a detailed report on weather monitoring system and formed a research paper on IOT weather monitoring system with the help of a team.
+I have created a detailed report on working of weather monitoring system and developed a hardware based working project. Basically a device that can be placed in the surroundings and we can get the readings from the surroundings and all that data can be stored on cloud for weather predictions and further analysis and i have aslo formed a research paper on working of IOT weather monitoring system with the help of a team.
